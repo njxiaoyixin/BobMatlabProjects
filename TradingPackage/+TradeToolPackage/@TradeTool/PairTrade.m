@@ -1,0 +1,1 @@
+function PairID = PairTrade(obj,ThisPair)

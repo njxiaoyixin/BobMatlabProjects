@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="GBK" ?>
+<config QuickBuyKey="97" QuickSellKey="99" DelOrderKey="110" BuyOP="0" SellOP="0" MDOP="0" ChangeOP="0" SoundWhenTrade="false" SoundWhenDelOrder="false" SoundWhenISChange="false" SoundWhenConn="false" DeleteOrdersWhenZeroPos="false" DClickPosOP="0" OrderAgainOP="0" OrderAgainPT="1" FileLogLevel="20000" WindowLogLevel="20000">
+    <broker>7070</broker>
+    <user rememberMe="true">00133</user>
+    <orderForm openKey="1" closeKey="3" closeTodayKey="2" buyKey="1" sellKey="3" qucikIns1="cu1003" MDBuy1Key="99" MDSell1Key="97" MDSell2Key="100" MDBuy2Key="98" qucikIns0="" qucikIns2="" qucikIns3="" qucikIns4="" qucikIns5="" qucikIns6="" qucikIns7="" qucikIns8="" qucikIns9="" PriceTypeOnClickMD="1" FocusAftClickMD="0" PriceDigits="2" VolumeToClose="1" PriceTypeOnChange="2" showTradedOrders="true" showDeletedOrders="true" showErrorOrders="true">
+        <showBaozhi>true</showBaozhi>
+        <allowMarketPrice>true</allowMarketPrice>
+        <confirmBeforeOrder>true</confirmBeforeOrder>
+        <confirmBeforeRevoke>false</confirmBeforeRevoke>
+        <clearAfterOrder>false</clearAfterOrder>
+        <autoCloseToday>false</autoCloseToday>
+        <closeTodayFirst>true</closeTodayFirst>
+    </orderForm>
+    <confirmBeforeRevoke>true</confirmBeforeRevoke>
+    <positionOperation OpenLongPriceType="1" OpenLongPriceTick="0" OpenShortPriceType="1" OpenShortPriceTick="0" IncPosPriceType="0" IncPosPriceTick="0" DecPosPriceType="0" DecPosPriceTick="0" CloseSelectedPriceType="0" CloseSelectedPriceTick="0" CloseAllPriceType="0" CloseAllPriceTick="0" />
+    <oneKey defaultOpen="1" defaultClose="1">
+        <insrument code="au" openVolume="2" closeVolume="2" />
+        <insrument code="au1003" openVolume="5" closeVolume="5" />
+    </oneKey>
+    <servers default="联通">
+        <server address="116.236.239.136" port="41205" type="trade" enabled="true" provider="电信" />
+        <server address="116.236.239.136" port="41213" type="md" enabled="true" provider="电信" />
+        <server address="112.64.143.146" port="41205" type="trade" enabled="true" provider="联通" />
+        <server address="112.64.143.146" port="41213" type="md" enabled="true" provider="联通" />
+    </servers>
+    <orderList />
+    <positionList enableOneKey="-842150451" />
+    <DisplayGridColumnHeaders>
+        <column>aa</column>
+        <column>bb</column>
+    </DisplayGridColumnHeaders>
+</config>

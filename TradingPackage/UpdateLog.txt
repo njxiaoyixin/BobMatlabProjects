@@ -1,0 +1,12 @@
+20160819 
+待开发：在类中内置记录变量，记录所Register的Events，避免重复订阅
+修改CTPDrive的MarketData等订阅时的重复订阅问题
+修改IBDrive中重复订阅的问题
+
+将铜跨境套利的模型升级为通用模板，通过改动Strategy Config即可交易新产品
+
+将铜跨境套利的频率加高
+
+20160828
+将QuoteDrive与TradeDrive分成两个Class，TradeDrive继承QuoteDrive，以避免Abstract Properties产生问题，也为QuoteDrive瘦身
+另外，将Error_List, Fill_List等交易相关的错误代码与BaseTradeDrive进行分离

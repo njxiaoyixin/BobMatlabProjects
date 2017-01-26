@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/08/13 19:06:08.000.929,=rtl.dcp</Transaction>
+    <Transaction>2013/08/13 19:06:12.000.935,=C:\Users\zou\Documents\RAD Studio\10.0\Imports\CTPCOMLib_TLB.pas</Transaction>
+    <Transaction>2013/08/13 19:06:12.000.941,=vcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

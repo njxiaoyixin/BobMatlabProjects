@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<Config>
+		<Mail2Me>
+			<MailAddress>njxiaoyixin@126.com</MailAddress>
+			<Password>406978956hhxx</Password>
+			<SMTPServer>smtp.126.com</SMTPServer>
+		</Mail2Me>
+	</Config>
