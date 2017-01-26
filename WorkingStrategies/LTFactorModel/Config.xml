@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Config>
-   <SDate>731582</SDate>
-   <EDate>736694</EDate>
-   <DataDir>F:\DataHub\LTFactorModel\</DataDir>
-   <PCA>
-      <alpha>90</alpha>
-   </PCA>
-</Config>
