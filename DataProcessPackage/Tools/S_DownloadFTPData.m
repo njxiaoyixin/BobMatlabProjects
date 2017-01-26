@@ -125,7 +125,7 @@ for Date = SDate:EDate
         % 将CSV数据转换成Mat
         TitleStr= '  将CSV数据转换成mat...';
         fprintf(fid,'%s\n',TitleStr);
-        WorkScripts.TranslateDomesticCSVtoMAT(Date,Date,'TargetFolder',matDir,'DataSource',csvDir,'InputType',InputType,'OutputType',OutputType);
+        TranslateDomesticCSVtoMAT(Date,Date,'TargetFolder',matDir,'DataSource',csvDir,'InputType',InputType,'OutputType',OutputType);
         end
     end
 end

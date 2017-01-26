@@ -44,15 +44,27 @@ S_UpdateLocalData('DataProvider','Wind','InputType','EDB',...
     'TransformData',true,'ByDay',false,'Overwrite',false);
 
 %% Retrieve Local Data of a Product to Desired Folder
+% 0 Before Running the following codes, you must Preset the following
+% attributes of the object
+RD = WindPackage.TickData;  % Use the data type of Data Source
+RD.SetProperties('Product','CU','Exchange','SQ','SDate',today-10,'EDate',...
+    today,'DataSource','F:\期货分笔数据mat','TargetFolder','F:\期货分钟数据','TimeZone','CN','Country','CH');
 % 1)Retrieve data to single folders(saved on a daily basis)
-
+RD.ReadProduct_Divided('Tick','Bar','mat','csv','Interval',1,'SearchMode','Ticker','isIntraday',1);
 % 2)Concat the same contracts from Target Folder of the DIVIDED function
 % Note: TargetFolder is the Data source of this function
-
+FileIndex = F_IndexAll(RD,Folder);
+RD.ReadProduct_Concat('Tick','Bar','csv','mat','FileIndex',FileIndex);
 %% Data Process
 % 1) Retrieve Local Daily Data, Calculate the Active Contracts and
 % Construct Px and ActivePx
+DP = DataProcess;
+% [ Px , PxActive]  = ConstructDailyPx(obj,varargin)
+[ Px , PxActive]  = ConstructDailyPx(s,'InputFileType','mat',...
+    'RollMode','Comdty','AverageDay',5,'AllowExpireMonth',false);
 
 % 2) Using Px to Retrieve Higher Frequency Local Data from 'HFDataSource'
-
+% HF  = ConstructMainHF(obj,InputFileType,Px,HF,BarDataSource)
+HF = [];
+HF  = ConstructMainHF(obj,'mat',Px,HF,'F:\期货分笔数据mat');
 %% Functions

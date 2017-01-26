@@ -135,7 +135,7 @@ disp(TitleStr)
 fprintf(fid,'%s\n',TitleStr);
 
 if transformData
-    WorkScripts.TranslateDomesticCSVtoMAT(SDate,EDate,'TargetFolder',outputDir,'DataSource',inputDir,'InputFileType','csv','OutputFileType','mat');
+    TranslateDomesticCSVtoMAT(SDate,EDate,'TargetFolder',outputDir,'DataSource',inputDir,'InputFileType','csv','OutputFileType','mat');
     TitleStr = [datestr(now,31),'--Data transformation finished.'];
     disp(TitleStr)
     fprintf(fid,'%s\n',TitleStr);
