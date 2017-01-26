@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<currentCodeMap>
+	<Daily>
+        <item>	150175	</item>
+		<item>	150176	</item>
+		<item>	161831	</item>
+        <item>  HSCEI   </item>
+		<item>	CU	</item>
+		<!-- <item>	AG	</item> -->
+		<!-- <item>	AU	</item> -->
+		<!-- <item>	RB	</item> -->
+		<!-- <item>	NI	</item> -->
+		<!-- <item>	BU	</item> -->
+		<!-- <item>	RU	</item> -->
+		<!-- <item>	ZN	</item> -->
+		<!-- <item>	AL	</item> -->
+		<!-- <item>	HC	</item> -->
+		<!-- <item>	SN	</item> -->
+		<!-- <item>	PB	</item> -->
+		<!-- <item>	FU	</item> -->
+		<!-- <item>	WR	</item> -->
+		<!-- <item>	PP	</item> -->
+		<!-- <item>	L	</item> -->
+		<!-- <item>	CS	</item> -->
+		<!-- <item>	M	</item> -->
+		<!-- <item>	I	</item> -->
+		<!-- <item>	P	</item> -->
+		<!-- <item>	C	</item> -->
+		<!-- <item>	Y	</item> -->
+		<!-- <item>	JD	</item> -->
+		<!-- <item>	JM	</item> -->
+		<!-- <item>	A	</item> -->
+		<!-- <item>	V	</item> -->
+		<!-- <item>	J	</item> -->
+		<!-- <item>	FB	</item> -->
+		<!-- <item>	B	</item> -->
+		<!-- <item>	BB	</item> -->
+		<item>	MA	</item>
+		<!-- <item>	SR	</item> -->
+		<!-- <item>	OI	</item> -->
+		<!-- <item>	RM	</item> -->
+		<!-- <item>	TA	</item> -->
+		<!-- <item>	FG	</item> -->
+		<!-- <item>	ZC	</item> -->
+		<!-- <item>	CF	</item> -->
+		<item>	WH	</item>
+		<item>	SM	</item>
+		<item>	SF	</item>
+		<item>	RS	</item>
+		<item>	RI	</item>
+		<item>	LR	</item>
+		<item>	PM	</item>
+		<item>	JR	</item>
+		<item>	IF	</item>
+		<item>	IC	</item>
+		<item>	IH	</item>
+		<item>	TF	</item>
+		<item>	T	</item>
+		<item>	000300	</item>
+		<item>	000905	</item>
+		<item>	000016	</item>
+		<item>	000001	</item>
+		<item>	161227	</item>
+		<item>	399106	</item>
+		<item>	399001	</item>
+		<item>	399006	</item>
+		<item>	399102	</item>
+
+	</Daily>
+	
+    <Tick>
+		<item>	CU</item>
+		<item>	AG	</item>
+		<item>	AU	</item>
+		<item>	RB	</item>
+		<item>	NI	</item>
+		<item>	BU	</item>
+		<item>	RU	</item>
+		<item>	ZN	</item>
+		<item>	AL	</item>
+		<item>	HC	</item>
+		<item>	SN	</item>
+		<item>	PB	</item>
+		<item>	FU	</item>
+		<item>	WR	</item>
+		<item>	PP	</item>
+		<item>	L	</item>
+		<item>	CS	</item>
+		<item>	M	</item>
+		<item>	I	</item>
+		<item>	P	</item>
+		<item>	C	</item>
+		<item>	Y	</item>
+		<item>	JD	</item>
+		<item>	JM	</item>
+		<item>	A	</item>
+		<item>	V	</item>
+		<item>	J	</item>
+		<item>	FB	</item>
+		<item>	B	</item>
+		<item>	BB	</item>
+		<item>	MA	</item>
+		<item>	SR	</item>
+		<item>	OI	</item>
+		<item>	RM	</item>
+		<item>	TA	</item>
+		<item>	FG	</item>
+		<item>	ZC	</item>
+		<item>	CF	</item>
+		<item>	WH	</item>
+		<item>	SM	</item>
+		<item>	SF	</item>
+		<item>	RS	</item>
+		<item>	RI	</item>
+		<item>	LR	</item>
+		<item>	PM	</item>
+		<item>	JR	</item>
+		<item>	IF	</item>
+		<item>	IC	</item>
+		<item>	IH	</item>
+		<item>	TF	</item>
+		<item>	T	</item>
+		<item>	000300	</item>
+		<item>	000905	</item>
+		<item>	000016	</item>
+		<item>	000001	</item>
+		<item>	161227	</item>
+		<item>	399106	</item>
+		<item>	399001	</item>
+		<item>	399006	</item>
+		<item>	399102	</item>
+		<item>	150175	</item>
+		<item>	150176	</item>
+		<!-- <item>	161831	</item> -->
+	</Tick>
+	
+	<ProductInfo>
+	   <item>
+		  <Product>CU</Product>
+		  <ProductName>沪铜</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>AG</Product>
+		  <ProductName>沪银</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>AU</Product>
+		  <ProductName>沪金</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>RB</Product>
+		  <ProductName>沪螺纹钢</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>NI</Product>
+		  <ProductName>沪镍</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>BU</Product>
+		  <ProductName>沪沥青</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>RU</Product>
+		  <ProductName>沪胶</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>ZN</Product>
+		  <ProductName>沪锌</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>AL</Product>
+		  <ProductName>沪铝</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>HC</Product>
+		  <ProductName>热轧卷板</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>SN</Product>
+		  <ProductName>沪锡</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>PB</Product>
+		  <ProductName>沪铅</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>FU</Product>
+		  <ProductName>沪燃油</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>WR</Product>
+		  <ProductName>沪线材</ProductName>
+		  <Exchange>SQ</Exchange>
+		  <ExchangeName>SHFE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>PP</Product>
+		  <ProductName>聚丙烯</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>L</Product>
+		  <ProductName>聚乙烯（塑料）</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>CS</Product>
+		  <ProductName>玉米淀粉</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>M</Product>
+		  <ProductName>豆粕</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>I</Product>
+		  <ProductName>铁矿石</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>P</Product>
+		  <ProductName>棕榈油</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>C</Product>
+		  <ProductName>玉米</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>Y</Product>
+		  <ProductName>豆油</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>JD</Product>
+		  <ProductName>鸡蛋</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>JM</Product>
+		  <ProductName>焦煤</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>A</Product>
+		  <ProductName>1号大豆</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>V</Product>
+		  <ProductName>聚氯乙烯</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>J</Product>
+		  <ProductName>焦炭</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>FB</Product>
+		  <ProductName>纤维板</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>B</Product>
+		  <ProductName>2号大豆</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>BB</Product>
+		  <ProductName>胶合板</ProductName>
+		  <Exchange>DL</Exchange>
+		  <ExchangeName>DCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>MA</Product>
+		  <ProductName>甲醇</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>SR</Product>
+		  <ProductName>白糖</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>OI</Product>
+		  <ProductName>菜籽油</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>TA</Product>
+		  <ProductName>对苯二甲酸</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>ZC</Product>
+		  <ProductName>动力煤</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>FG</Product>
+		  <ProductName>玻璃</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>CF</Product>
+		  <ProductName>棉花</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>WH</Product>
+		  <ProductName>强麦</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>SM</Product>
+		  <ProductName>锰硅</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>SF</Product>
+		  <ProductName>硅铁</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>RS</Product>
+		  <ProductName>菜籽</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>RM</Product>
+		  <ProductName>菜粕</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>RI</Product>
+		  <ProductName>早籼稻</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>LR</Product>
+		  <ProductName>晚籼稻</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>PM</Product>
+		  <ProductName>普麦</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>JR</Product>
+		  <ProductName>粳稻</ProductName>
+		  <Exchange>ZZ</Exchange>
+		  <ExchangeName>CZCE</ExchangeName>
+		  <ProductType>FUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>IF</Product>
+		  <ProductName>沪深300</ProductName>
+		  <Exchange>SF</Exchange>
+		  <ExchangeName>中金所</ExchangeName>
+		  <ProductType>INDEXFUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>IC</Product>
+		  <ProductName>中证500</ProductName>
+		  <Exchange>SF</Exchange>
+		  <ExchangeName>中金所</ExchangeName>
+		  <ProductType>INDEXFUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>IH</Product>
+		  <ProductName>上证50</ProductName>
+		  <Exchange>SF</Exchange>
+		  <ExchangeName>中金所</ExchangeName>
+		  <ProductType>INDEXFUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>TF</Product>
+		  <ProductName>5年期国债</ProductName>
+		  <Exchange>SF</Exchange>
+		  <ExchangeName>中金所</ExchangeName>
+		  <ProductType>INDEXFUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>T</Product>
+		  <ProductName>10年期国债</ProductName>
+		  <Exchange>SF</Exchange>
+		  <ExchangeName>中金所</ExchangeName>
+		  <ProductType>INDEXFUT</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>000300</Product>
+		  <ProductName>沪深300指数</ProductName>
+		  <Exchange>SH</Exchange>
+		  <ExchangeName>上交所</ExchangeName>
+		  <ProductType>INDEX</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>000905</Product>
+		  <ProductName>中证500指数</ProductName>
+		  <Exchange>SH</Exchange>
+		  <ExchangeName>上交所</ExchangeName>
+		  <ProductType>INDEX</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>000016</Product>
+		  <ProductName>上证50指数</ProductName>
+		  <Exchange>SH</Exchange>
+		  <ExchangeName>上交所</ExchangeName>
+		  <ProductType>INDEX</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>000001</Product>
+		  <ProductName>上证综指</ProductName>
+		  <Exchange>SH</Exchange>
+		  <ExchangeName>上交所</ExchangeName>
+		  <ProductType>INDEX</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>161227</Product>
+		  <ProductName>深100指数</ProductName>
+		  <Exchange>SZ</Exchange>
+		  <ExchangeName>深交所</ExchangeName>
+		  <ProductType>INDEX</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>399106</Product>
+		  <ProductName>深证综指</ProductName>
+		  <Exchange>SZ</Exchange>
+		  <ExchangeName>深交所</ExchangeName>
+		  <ProductType>INDEX</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>399001</Product>
+		  <ProductName>深证成指</ProductName>
+		  <Exchange>SZ</Exchange>
+		  <ExchangeName>深交所</ExchangeName>
+		  <ProductType>INDEX</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>399006</Product>
+		  <ProductName>创业板指</ProductName>
+		  <Exchange>SZ</Exchange>
+		  <ExchangeName>深交所</ExchangeName>
+		  <ProductType>INDEX</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>399102</Product>
+		  <ProductName>创业板综</ProductName>
+		  <Exchange>SZ</Exchange>
+		  <ExchangeName>深交所</ExchangeName>
+		  <ProductType>INDEX</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>150175</Product>
+		  <ProductName>H股A</ProductName>
+		  <Exchange>SZ</Exchange>
+		  <ExchangeName>深交所</ExchangeName>
+		  <ProductType>STK</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>150176</Product>
+		  <ProductName>H股B</ProductName>
+		  <Exchange>SZ</Exchange>
+		  <ExchangeName>深交所</ExchangeName>
+		  <ProductType>STK</ProductType>
+		  <Country/>
+	   </item>
+	   <item>
+		  <Product>161831</Product>
+		  <ProductName>银华恒生H股</ProductName>
+		  <Exchange>OF</Exchange>
+		  <ExchangeName>深交所</ExchangeName>
+		  <ProductType>OPENFUND</ProductType>
+		  <Country/>
+	   </item>
+       <item>
+		  <Product>HSCEI</Product>
+		  <ProductName>恒生国企指数</ProductName>
+		  <Exchange>HI</Exchange>
+		  <ExchangeName>港交所</ExchangeName>
+		  <ProductType>Index</ProductType>
+		  <Country/>
+	   </item>
+       <item>
+		  <Product>HSI</Product>
+		  <ProductName>恒生指数</ProductName>
+		  <Exchange>HI</Exchange>
+		  <ExchangeName>港交所</ExchangeName>
+		  <ProductType>Index</ProductType>
+		  <Country/>
+	   </item>
+
+   </ProductInfo>
+</currentCodeMap>
